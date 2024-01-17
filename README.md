@@ -1,0 +1,1 @@
+<https://python.langchain.com/docs/integrations/llms/gpt4all>
